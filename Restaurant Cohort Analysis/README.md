@@ -1,0 +1,3 @@
+# Restaurant Analysis
+
+This Project had me explore the data, and look into possible avenues for exploration. Reviewing the data, I cleaned some columns, formats, and started linking the tables together. drawing from my earlier experience with cohort analysis, I applied the same techniques here. I wanted to see if the total revenue for a store is affected by it's menue prices. I took the average cohort number, in ranges of 50$ I.E. 0-50 being cohort 1, etc. I laid oout the total revenue per restaurant, with a side by side comparison of the menue average price cohort. What I found was that the menu average cohort between 1-7 held 80% of the revenue for the industry. This leads me to believe that the customers wanted a more low cost pricing.
